@@ -14,6 +14,6 @@ for i in range(etup):
 print(elist)
 
 if 0 in elist:
-    print("is not a palindrome")
+    print("Elijah was Here")
 else:
-    print("is a palindrome")
+    print("Matt Damon")
